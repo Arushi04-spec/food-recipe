@@ -1,0 +1,1 @@
+The code is for a recipe of a delicious chocolate cake, which includes a list of ingredients and step-by-step instructions for preparation. It also includes a photo credit for the image used in the HTML file.
